@@ -4,6 +4,18 @@
 
 每个条目包含：**精确陈述**（数学符号）→ **通俗解释** → **为什么重要** → **具体例子** → **关键进展**，部分条目配可视化图示。
 
+## 千禧年问题 · Millennium Prize Problems
+
+七大千禧年难题已全部收录：
+
+- [黎曼猜想](conjectures/riemann-hypothesis.md)（未解决）
+- [P vs NP](conjectures/p-vs-np.md)（未解决）
+- [BSD 猜想](conjectures/birch-swinnerton-dyer.md)（未解决）
+- [霍奇猜想](conjectures/hodge.md)（未解决）
+- [杨-米尔斯质量间隙](conjectures/yang-mills.md)（未解决）
+- [纳维-斯托克斯光滑性](conjectures/navier-stokes.md)（未解决）
+- [庞加莱猜想](conjectures/poincare.md)（已解决，Perelman 2003）
+
 ## 未解决
 
 | 猜想 | 领域 | 提出 |
