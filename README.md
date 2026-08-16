@@ -30,6 +30,12 @@
 | [霍奇猜想](conjectures/hodge.md) | 代数几何 | 1950 |
 | [杨-米尔斯质量间隙](conjectures/yang-mills.md) | 数学物理 | 1954 |
 | [纳维-斯托克斯光滑性](conjectures/navier-stokes.md) | 偏微分方程 | 2000 |
+| [华林问题（精确值）](conjectures/warings-problem.md) | 数论 | 1770 |
+| [费马数问题](conjectures/fermat-numbers.md) | 数论 | 1640 |
+| [阿廷猜想](conjectures/artins-conjecture.md) | 数论 | 1927 |
+| [哈代-利特尔伍德猜想](conjectures/hardy-littlewood.md) | 数论 | 1923 |
+| [西格尔零点](conjectures/siegel-zeros.md) | 数论 | 1935 |
+| [林德洛夫猜想](conjectures/lindelof.md) | 数论 | 1908 |
 
 ## 已解决
 
@@ -48,6 +54,11 @@
 | [伯特兰公设](conjectures/bertrand.md) | 数论 | Chebyshev / 1850 |
 | [√2 的无理性](conjectures/sqrt2.md) | 数论 | 古希腊 |
 | [连续统假设](conjectures/continuum-hypothesis.md) | 集合论 | 独立（Gödel / Cohen） |
+| [费马小定理](conjectures/fermats-little-theorem.md) | 数论 | Euler 证明 / 1736 |
+| [拉马努金-纳格尔方程](conjectures/ramanujan-nagell.md) | 数论 | Nagell / 1948 |
+| [哥德尔不完备定理](conjectures/godel-incompleteness.md) | 逻辑 | Gödel / 1931 |
+| [高斯-邦内定理](conjectures/gauss-bonnet.md) | 几何 | 1848 |
+| [倍立方](conjectures/doubling-cube.md) | 几何 | Wantzel / 1837（不可行） |
 
 ## 关于
 

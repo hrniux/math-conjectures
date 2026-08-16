@@ -1,0 +1,31 @@
+<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="费马小定理循环">
+  <rect width="560" height="260" fill="#0D1117"/>
+  <g fill="none" stroke="#8A8377" stroke-width="1.5">
+    <polygon points="350,130 315,190.62 245,190.62 210,130 245,69.38 315,69.38"/>
+  </g>
+  <g stroke="#E0553B" stroke-width="2" fill="none" marker-end="url(#none)">
+    <path d="M350 130 L315 190.62"/>
+    <path d="M315 190.62 L245 190.62"/>
+    <path d="M245 190.62 L210 130"/>
+    <path d="M210 130 L245 69.38"/>
+    <path d="M245 69.38 L315 69.38"/>
+    <path d="M315 69.38 L350 130"/>
+  </g>
+  <g fill="#0D1117" stroke="#E0553B" stroke-width="2">
+    <circle cx="350" cy="130" r="16"/>
+    <circle cx="315" cy="190.62" r="16"/>
+    <circle cx="245" cy="190.62" r="16"/>
+    <circle cx="210" cy="130" r="16"/>
+    <circle cx="245" cy="69.38" r="16"/>
+    <circle cx="315" cy="69.38" r="16"/>
+  </g>
+  <g fill="#E6E1D9" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+    <text x="350" y="135">3</text>
+    <text x="315" y="196">2</text>
+    <text x="245" y="196">6</text>
+    <text x="210" y="135">4</text>
+    <text x="245" y="74">5</text>
+    <text x="315" y="74">1</text>
+  </g>
+  <text x="440" y="130" fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" text-anchor="middle">3^k mod 7 循环，周期 6</text>
+</svg>
