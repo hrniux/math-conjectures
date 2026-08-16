@@ -36,6 +36,12 @@
 | [哈代-利特尔伍德猜想](conjectures/hardy-littlewood.md) | 数论 | 1923 |
 | [西格尔零点](conjectures/siegel-zeros.md) | 数论 | 1935 |
 | [林德洛夫猜想](conjectures/lindelof.md) | 数论 | 1908 |
+| [布罗卡尔问题](conjectures/brocard.md) | 数论 | 1876 |
+| [埃尔德什-莫泽问题](conjectures/erdos-moser.md) | 数论 | 1950 |
+| [卡塔兰-狄克森猜想](conjectures/aliquot-sequences.md) | 数论 | 1888 |
+| [高斯圆问题](conjectures/gauss-circle.md) | 数论 | 1801 |
+| [迪利克雷除数问题](conjectures/dirichlet-divisor.md) | 数论 | 1849 |
+| [光滑庞加莱猜想](conjectures/smooth-poincare.md) | 拓扑 | 20 世纪 |
 
 ## 已解决
 
@@ -59,6 +65,14 @@
 | [哥德尔不完备定理](conjectures/godel-incompleteness.md) | 逻辑 | Gödel / 1931 |
 | [高斯-邦内定理](conjectures/gauss-bonnet.md) | 几何 | 1848 |
 | [倍立方](conjectures/doubling-cube.md) | 几何 | Wantzel / 1837（不可行） |
+| [几何化猜想](conjectures/geometrization.md) | 拓扑 | Perelman / 2003 |
+| [欧拉多面体公式](conjectures/euler-polyhedron.md) | 几何 | Euler / 1750 |
+| [二次互反律](conjectures/quadratic-reciprocity.md) | 数论 | Gauss / 1796 |
+| [莫德尔猜想](conjectures/mordell.md) | 数论 / 代数几何 | Faltings / 1983 |
+| [毕达哥拉斯定理](conjectures/pythagorean.md) | 几何 | 古代 |
+| [哥德巴赫另一猜想](conjectures/goldbach-other.md) | 数论 | 反例 / 1951（否定） |
+| [停机问题](conjectures/halting-problem.md) | 理论计算机 | Turing / 1936（不可判定） |
+| [AKS 素数判定](conjectures/aks-primality.md) | 理论计算机 | 2002 |
 
 ## 关于
 
