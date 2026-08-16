@@ -25,8 +25,6 @@ $$\int_M K \, dA = 2\pi \chi(M)$$
 - 球面：$\chi = 2$，总曲率 $4\pi$。
 - 环面：$\chi = 0$，总曲率 $0$。
 
-![球面三角形](../diagrams/gauss-bonnet.svg)
-
 ---
 
 ← [返回目录](../README.md)
