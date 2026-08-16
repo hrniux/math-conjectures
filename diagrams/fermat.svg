@@ -1,0 +1,13 @@
+<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3-4-5 直角三角形">
+  <rect width="560" height="260" fill="#0D1117"/>
+  <!-- 3-4-5 直角三角形 -->
+  <polygon points="140,40 140,200 260,200" fill="#E0553B" fill-opacity="0.14" stroke="#E0553B" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- 直角标记 -->
+  <polyline points="152,188 152,200 140,200" fill="none" stroke="#E6E1D9" stroke-width="1.5"/>
+  <!-- 边长标注 -->
+  <text x="120" y="125" fill="#E6E1D9" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" text-anchor="middle">4</text>
+  <text x="200" y="226" fill="#E6E1D9" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" text-anchor="middle">3</text>
+  <text x="195" y="100" fill="#E0553B" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" text-anchor="middle" transform="rotate(-53 195 100)">5</text>
+  <text x="380" y="120" fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" text-anchor="middle">3² + 4² = 5²</text>
+  <text x="380" y="150" fill="#E0553B" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" text-anchor="middle">但 n &gt; 2 时无解</text>
+</svg>

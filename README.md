@@ -2,7 +2,7 @@
 
 世界著名数学猜想的精确陈述与通俗解释。
 
-每个条目包含：**精确陈述**（数学符号）→ **通俗解释** → **为什么重要** → **具体例子** → **关键进展**。
+每个条目包含：**精确陈述**（数学符号）→ **通俗解释** → **为什么重要** → **具体例子** → **关键进展**，部分条目配可视化图示。
 
 ## 未解决
 
@@ -18,6 +18,7 @@
 | [比尔猜想](conjectures/beal.md) | 数论 | 1993 |
 | [安德丽卡猜想](conjectures/andrica.md) | 数论 | 1986 |
 | [abc 猜想](conjectures/abc.md) | 数论 | 1985 |
+| [奇完全数问题](conjectures/odd-perfect-numbers.md) | 数论 | 古希腊 |
 | [P vs NP](conjectures/p-vs-np.md) | 理论计算机 | 1971 |
 | [BSD 猜想](conjectures/birch-swinnerton-dyer.md) | 数论 / 代数几何 | 1965 |
 | [霍奇猜想](conjectures/hodge.md) | 代数几何 | 1950 |
@@ -33,6 +34,10 @@
 | [四色定理](conjectures/four-color.md) | 图论 | Appel & Haken / 1976 |
 | [卡塔兰猜想](conjectures/catalan.md) | 数论 | Mihăilescu / 2002 |
 | [开普勒猜想](conjectures/kepler.md) | 几何 | Hales / 1998 |
+| [素数定理](conjectures/prime-number-theorem.md) | 数论 | Hadamard & de la Vallée Poussin / 1896 |
+| [柯尼斯堡七桥问题](conjectures/seven-bridges.md) | 图论 | Euler / 1736 |
+| [三等分角](conjectures/angle-trisection.md) | 几何 | Wantzel / 1837（不可行） |
+| [化圆为方](conjectures/squaring-circle.md) | 几何 | Lindemann / 1882（不可行） |
 
 ## 关于
 

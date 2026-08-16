@@ -1,0 +1,14 @@
+<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="六角密排球堆积">
+  <rect width="560" height="260" fill="#0D1117"/>
+  <g fill="#E0553B" fill-opacity="0.16" stroke="#E0553B" stroke-width="1.5">
+    <circle cx="280" cy="130" r="40"/>
+    <circle cx="360" cy="130" r="40"/>
+    <circle cx="320" cy="199.28" r="40"/>
+    <circle cx="240" cy="199.28" r="40"/>
+    <circle cx="200" cy="130" r="40"/>
+    <circle cx="240" cy="60.72" r="40"/>
+    <circle cx="320" cy="60.72" r="40"/>
+  </g>
+  <text x="440" y="120" fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" text-anchor="middle">最密堆积</text>
+  <text x="440" y="146" fill="#E0553B" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" text-anchor="middle">π/√18 ≈ 0.7405</text>
+</svg>

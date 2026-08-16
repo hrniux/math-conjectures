@@ -1,0 +1,9 @@
+<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="圆化方">
+  <rect width="560" height="260" fill="#0D1117"/>
+  <circle cx="170" cy="130" r="70" fill="none" stroke="#E0553B" stroke-width="2.5"/>
+  <text x="170" y="135" fill="#E0553B" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" text-anchor="middle">圆</text>
+  <rect x="320" y="60" width="140" height="140" fill="none" stroke="#E6E1D9" stroke-width="2.5"/>
+  <text x="390" y="135" fill="#E6E1D9" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" text-anchor="middle">方</text>
+  <text x="280" y="135" fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" text-anchor="middle">= ?</text>
+  <text x="280" y="245" fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" text-anchor="middle">作出与给定圆等面积的正方形：尺规作图不可能</text>
+</svg>
