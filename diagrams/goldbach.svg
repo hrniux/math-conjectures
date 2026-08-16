@@ -1,0 +1,13 @@
+<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="560" height="260" fill="#0D1117"/>
+  <line x1="60" y1="140" x2="500" y2="140" stroke="#E8E4DC" stroke-width="1.5"/>
+  <circle cx="300" cy="140" r="6" fill="#E0553B"/>
+  <text x="300" y="120" fill="#E0553B" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700" text-anchor="middle">12</text>
+  <circle cx="140" cy="140" r="6" fill="#E8E4DC"/>
+  <text x="140" y="115" fill="#E8E4DC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" text-anchor="middle">5</text>
+  <circle cx="460" cy="140" r="6" fill="#E8E4DC"/>
+  <text x="460" y="115" fill="#E8E4DC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" text-anchor="middle">7</text>
+  <path d="M140 158 Q220 185 300 158" fill="none" stroke="#E0553B" stroke-width="2"/>
+  <path d="M460 158 Q380 185 300 158" fill="none" stroke="#E0553B" stroke-width="2"/>
+  <text x="280" y="220" fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" text-anchor="middle">12 = 5 + 7（两个素数之和）</text>
+</svg>

@@ -25,6 +25,8 @@ $$V - E + F = 2$$
 
 已推广到任意曲面：$V - E + F = \chi$（欧拉示性数），成为拓扑学基本工具。
 
+![立方体 V−E+F=2](../diagrams/euler-polyhedron.svg)
+
 ---
 
 ← [返回目录](../README.md)

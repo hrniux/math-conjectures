@@ -27,6 +27,8 @@ $$\pi(x) \sim \frac{x}{\ln x}$$
 
 1896 年 Hadamard 与 de la Vallée Poussin 各自独立证明，都借助了黎曼 ζ 函数的性质。
 
+![π(x) 与 x/ln x](../diagrams/prime-number-theorem.svg)
+
 ---
 
 ← [返回目录](../README.md)

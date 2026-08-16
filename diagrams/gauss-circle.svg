@@ -1,0 +1,55 @@
+<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="560" height="260" fill="#0D1117"/>
+  <circle cx="280" cy="130" r="100" fill="none" stroke="#E8E4DC" stroke-width="1.5"/>
+  <circle cx="180" cy="130" r="3" fill="#E0553B"/>
+  <circle cx="205" cy="80" r="3" fill="#E0553B"/>
+  <circle cx="205" cy="105" r="3" fill="#E0553B"/>
+  <circle cx="205" cy="130" r="3" fill="#E0553B"/>
+  <circle cx="205" cy="155" r="3" fill="#E0553B"/>
+  <circle cx="205" cy="180" r="3" fill="#E0553B"/>
+  <circle cx="230" cy="55" r="3" fill="#E0553B"/>
+  <circle cx="230" cy="80" r="3" fill="#E0553B"/>
+  <circle cx="230" cy="105" r="3" fill="#E0553B"/>
+  <circle cx="230" cy="130" r="3" fill="#E0553B"/>
+  <circle cx="230" cy="155" r="3" fill="#E0553B"/>
+  <circle cx="230" cy="180" r="3" fill="#E0553B"/>
+  <circle cx="230" cy="205" r="3" fill="#E0553B"/>
+  <circle cx="255" cy="55" r="3" fill="#E0553B"/>
+  <circle cx="255" cy="80" r="3" fill="#E0553B"/>
+  <circle cx="255" cy="105" r="3" fill="#E0553B"/>
+  <circle cx="255" cy="130" r="3" fill="#E0553B"/>
+  <circle cx="255" cy="155" r="3" fill="#E0553B"/>
+  <circle cx="255" cy="180" r="3" fill="#E0553B"/>
+  <circle cx="255" cy="205" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="30" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="55" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="80" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="105" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="130" r="4" fill="#E0553B"/>
+  <circle cx="280" cy="155" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="180" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="205" r="3" fill="#E0553B"/>
+  <circle cx="280" cy="230" r="3" fill="#E0553B"/>
+  <circle cx="305" cy="55" r="3" fill="#E0553B"/>
+  <circle cx="305" cy="80" r="3" fill="#E0553B"/>
+  <circle cx="305" cy="105" r="3" fill="#E0553B"/>
+  <circle cx="305" cy="130" r="3" fill="#E0553B"/>
+  <circle cx="305" cy="155" r="3" fill="#E0553B"/>
+  <circle cx="305" cy="180" r="3" fill="#E0553B"/>
+  <circle cx="305" cy="205" r="3" fill="#E0553B"/>
+  <circle cx="330" cy="55" r="3" fill="#E0553B"/>
+  <circle cx="330" cy="80" r="3" fill="#E0553B"/>
+  <circle cx="330" cy="105" r="3" fill="#E0553B"/>
+  <circle cx="330" cy="130" r="3" fill="#E0553B"/>
+  <circle cx="330" cy="155" r="3" fill="#E0553B"/>
+  <circle cx="330" cy="180" r="3" fill="#E0553B"/>
+  <circle cx="330" cy="205" r="3" fill="#E0553B"/>
+  <circle cx="355" cy="80" r="3" fill="#E0553B"/>
+  <circle cx="355" cy="105" r="3" fill="#E0553B"/>
+  <circle cx="355" cy="130" r="3" fill="#E0553B"/>
+  <circle cx="355" cy="155" r="3" fill="#E0553B"/>
+  <circle cx="355" cy="180" r="3" fill="#E0553B"/>
+  <circle cx="380" cy="130" r="3" fill="#E0553B"/>
+  <text x="430" y="120" fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" text-anchor="middle">圆内格点</text>
+  <text x="430" y="146" fill="#E8E4DC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" text-anchor="middle">N(r) ≈ πr²</text>
+</svg>

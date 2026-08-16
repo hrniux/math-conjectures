@@ -20,6 +20,8 @@
 
 目前已知 $\theta \le \frac{131}{416} \approx 0.315$（Huxley 等），最优 $\frac{1}{4}$ 仍未证明。
 
+![圆内格点 N(r)≈πr²](../diagrams/gauss-circle.svg)
+
 ---
 
 ← [返回目录](../README.md)
