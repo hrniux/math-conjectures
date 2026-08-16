@@ -19,6 +19,12 @@
 | [安德丽卡猜想](conjectures/andrica.md) | 数论 | 1986 |
 | [abc 猜想](conjectures/abc.md) | 数论 | 1985 |
 | [奇完全数问题](conjectures/odd-perfect-numbers.md) | 数论 | 古希腊 |
+| [梅森素数无穷性](conjectures/mersenne-primes.md) | 数论 | 1644 |
+| [克拉梅尔猜想](conjectures/cramer.md) | 数论 | 1936 |
+| [布尼亚科夫斯基猜想](conjectures/bunyakovsky.md) | 数论 | 1857 |
+| [π 的正规性](conjectures/normality-of-pi.md) | 数论 | 20 世纪 |
+| [欧拉-马斯刻若尼常数 γ 的无理性](conjectures/euler-mascheroni.md) | 分析数论 | 18 世纪 |
+| [广义黎曼猜想](conjectures/grh.md) | 数论 | 1884 |
 | [P vs NP](conjectures/p-vs-np.md) | 理论计算机 | 1971 |
 | [BSD 猜想](conjectures/birch-swinnerton-dyer.md) | 数论 / 代数几何 | 1965 |
 | [霍奇猜想](conjectures/hodge.md) | 代数几何 | 1950 |
@@ -38,6 +44,10 @@
 | [柯尼斯堡七桥问题](conjectures/seven-bridges.md) | 图论 | Euler / 1736 |
 | [三等分角](conjectures/angle-trisection.md) | 几何 | Wantzel / 1837（不可行） |
 | [化圆为方](conjectures/squaring-circle.md) | 几何 | Lindemann / 1882（不可行） |
+| [素数无穷多](conjectures/euclid-infinite-primes.md) | 数论 | Euclid / 公元前 300 |
+| [伯特兰公设](conjectures/bertrand.md) | 数论 | Chebyshev / 1850 |
+| [√2 的无理性](conjectures/sqrt2.md) | 数论 | 古希腊 |
+| [连续统假设](conjectures/continuum-hypothesis.md) | 集合论 | 独立（Gödel / Cohen） |
 
 ## 关于
 

@@ -1,0 +1,18 @@
+<svg width="560" height="260" viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="素数间隔">
+  <rect width="560" height="260" fill="#0D1117"/>
+  <line x1="60" y1="140" x2="500" y2="140" stroke="#E6E1D9" stroke-width="1.5"/>
+  <g fill="#E6E1D9">
+    <circle cx="100" cy="140" r="5"/>
+    <circle cx="150" cy="140" r="5"/>
+    <circle cx="250" cy="140" r="5"/>
+    <circle cx="480" cy="140" r="5"/>
+  </g>
+  <g fill="#8A8377" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" text-anchor="middle">
+    <text x="100" y="112">23</text>
+    <text x="150" y="112">29</text>
+    <text x="250" y="112">31</text>
+    <text x="480" y="112">97</text>
+  </g>
+  <path d="M250 160 Q365 190 480 160" fill="none" stroke="#E0553B" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="365" y="210" fill="#E0553B" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" text-anchor="middle">间隔随 p 增大，猜想 ≤ (ln p)²</text>
+</svg>
