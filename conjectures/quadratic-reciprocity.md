@@ -22,6 +22,8 @@ $$\left(\frac{p}{q}\right)\left(\frac{q}{p}\right) = (-1)^{\frac{(p-1)(q-1)}{4}}
 
 高斯一生给出 8 个证明；后被推广为更高次的互反律与类域论。
 
+![模 7 二次剩余](../diagrams/quadratic-reciprocity.svg)
+
 ---
 
 ← [返回目录](../README.md)

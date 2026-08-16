@@ -16,6 +16,16 @@
 - [纳维-斯托克斯光滑性](conjectures/navier-stokes.md)（未解决）
 - [庞加莱猜想](conjectures/poincare.md)（已解决，Perelman 2003）
 
+## 按领域浏览
+
+- **数论**（最大类）：素数分布、加法数论、丢番图方程、L 函数、完全数 —— 黎曼、哥德巴赫、孪生素数、abc、华林…
+- **拓扑**：庞加莱、几何化、光滑庞加莱
+- **几何**：开普勒、高斯-邦内、欧拉多面体、三大尺规难题
+- **代数几何**：霍奇、BSD、莫德尔
+- **理论计算机**：P vs NP、停机问题、AKS
+- **逻辑 / 集合论**：哥德尔不完备、连续统假设
+- **数学物理 / 偏微分**：杨-米尔斯、纳维-斯托克斯
+
 ## 未解决
 
 | 猜想 | 领域 | 提出 |
@@ -85,6 +95,11 @@
 | [哥德巴赫另一猜想](conjectures/goldbach-other.md) | 数论 | 反例 / 1951（否定） |
 | [停机问题](conjectures/halting-problem.md) | 理论计算机 | Turing / 1936（不可判定） |
 | [AKS 素数判定](conjectures/aks-primality.md) | 理论计算机 | 2002 |
+| [欧拉恒等式](conjectures/euler-identity.md) | 复分析 | Euler / 1748 |
+
+## 数学常数
+
+- [e（自然对数的底）](conjectures/e.md) · [π（圆周率）](conjectures/pi.md) · [黄金比例 φ](conjectures/golden-ratio.md) · [欧拉-马斯刻若尼常数 γ](conjectures/euler-mascheroni.md)
 
 ## 关于
 

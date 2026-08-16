@@ -28,6 +28,8 @@ $$a^{p-1} \equiv 1 \pmod p$$
 
 1736 年 Euler 给出首个证明；后来有多种简洁证明（如组合计数、群论证明）。
 
+![模 7 循环](../diagrams/fermat-little.svg)
+
 ---
 
 ← [返回目录](../README.md)
