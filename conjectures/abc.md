@@ -12,7 +12,7 @@ $$c < K_\varepsilon \cdot \mathrm{rad}(abc)^{1 + \varepsilon}$$
 
 ## 通俗解释
 
-若 $a$ 和 $b$ 的质因子都很「小」（比如都是 2 和 3 的幂），那么它们的和 $c$ 通常不能「太大」——因为 $c$ 会继承 $a, b$ 的「质因子很少」这个限制。abc 猜想把这种直觉精确化。
+大整数可能由少数质数的高次幂组成，因而其质因子之积远小于整数本身。abc 猜想限制的是：在 $a+b=c$ 且三者互素时，$c$ 相对**三者全部不同质因子的乘积**能有多大。这里不能说 $c$ 会继承 $a,b$ 的质因子；互素条件恰好意味着三者没有共同的质因子。
 
 ## 为什么重要
 
@@ -20,7 +20,7 @@ $$c < K_\varepsilon \cdot \mathrm{rad}(abc)^{1 + \varepsilon}$$
 
 ## 具体例子
 
-取 $a = 1, b = 8, c = 9$：$\mathrm{rad}(abc) = \mathrm{rad}(72) = 2 \times 3 = 6$，而 $c = 9 > 6$——这正是「质因子小但 c 偏大」的罕见反例，故需要指数 $1+\varepsilon$ 来「松绑」。
+取 $a = 1, b = 8, c = 9$：$\mathrm{rad}(abc) = \mathrm{rad}(72) = 2 \times 3 = 6$，而 $c = 9 > 6$。它说明简单的不等式 $c\le\mathrm{rad}(abc)$ 并不成立，**不是 abc 猜想的反例**；猜想允许依赖于 $\varepsilon$ 的常数 $K_\varepsilon$ 和指数 $1+\varepsilon$。
 
 ## 进展
 
